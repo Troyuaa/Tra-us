@@ -1,4 +1,3 @@
-````markdown
 # TraçuS 🚀
 
 **TraçuS** é um sistema de investigação de sites simples e eficiente, com menu interativo no terminal, desenvolvido em Python.  
