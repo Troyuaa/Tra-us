@@ -36,8 +36,8 @@ pip install requests beautifulsoup4 rich
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/Tracus.git
-   cd Tracus
+   git clone https://github.com/Troyuaa/Tra-us.git
+   cd Tra-us
    ```
 
 2. Execute o script:
@@ -45,6 +45,12 @@ pip install requests beautifulsoup4 rich
    ```bash
    python tracus.py
    ```
+ou
+
+  ```bash
+   python tracuspt.py
+   ``` 
+(em português)
 
 3. Use o menu para escolher a análise desejada e informe a URL do site.
 
@@ -73,5 +79,3 @@ GitHub: [https://github.com/Troyuaa](https://github.com/troyuaa)
 ---
 
 ⚡️ Você está investigando com **TraçuS**! ⚡️
-
-```
